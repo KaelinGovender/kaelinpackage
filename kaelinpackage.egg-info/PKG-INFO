@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: kaelinpackage
+Version: 0.1
+Summary: Package for Hackathon submission
+Home-page: https://github.com/KaelinGovender/kaelinpackage.git
+Author: Kaelin Govender
+Author-email: kaelin.govender1@gmail.com
+License: MIT
+Description: # mypackage
+        This library was created for EDSA Hackathon test submission
+        
+Platform: UNKNOWN
